@@ -43,4 +43,5 @@ public class DashboardView extends VerticalLayout {
         chart.getConfiguration().setSeries(dataSeries);
         return chart;
     }
+
 }
